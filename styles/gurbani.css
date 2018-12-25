@@ -1,0 +1,43 @@
+#gurbani-container {
+    display:inline-block;
+    width:100%;
+    
+    background: linear-gradient(to bottom right, rgba(0,181,231,1), 
+        rgba(0,126,203,1));
+    height: 614px;
+}
+
+#gurbani-content-container {
+    display: inline-block;
+    margin-top:100px;
+}
+
+#gurbani-heading{
+    margin-left:150px;
+    margin-top: 150px;
+    font-size:36px;
+    font-family:Roboto;
+    color:white;
+    font-weight:500;
+}
+
+#gurbani-content {
+    display:inline-block;
+    margin-top : 20px;
+    margin-left: 150px;
+    font-size: 28px;
+    font-family:Roboto;
+    color: white;
+    
+}
+
+#gurbani-image{
+    display:inline-block;
+    width:600px;
+    height:650px;
+    background:url(../images/homepage_device.png);
+    background-size: contain;
+
+    float: right;
+    margin-right: 50px;
+}

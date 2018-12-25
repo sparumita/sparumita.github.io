@@ -1,0 +1,57 @@
+#resume-container {
+    text-align: left;
+    margin-left:100px;
+}
+
+.resume-section-container {
+    display: inline-block;
+    float: left;
+}
+
+#resume-intro-text {
+    font-size: 34px;
+    color: rgba(74,74,74,1);
+    font-weight: 500;
+    font-family: roboto;
+    margin-left:100px
+}
+#resume-title{
+    margin-top: 20px;
+    margin-bottom: 10px; 
+    font-size: 30px;
+    color: rgba(74,74,74,1);
+    font-family: roboto;
+    margin-left:100px;
+}
+
+#resume-subtitle{
+     margin-top: 20px;
+    font-size: 24px;
+    color: rgba(74,74,74,1);
+    margin-left:100px;
+    font-family: roboto;
+}
+.resume-content div {
+    font-size: 22px;
+    margin-bottom:30px;
+    color: rgba(74,74,74,0.8);
+    font-family: roboto;
+} 
+
+#resume-container2{
+    text-align:left;
+    float:left;
+    margin: 380px;
+}
+
+.contact-submit-button {
+    
+    background: #DCDCDC;
+    padding: 10px;
+    font-size: 20px;
+    border:1px solid #4A4A4A;
+    border-radius: 4px;
+    font-family: Roboto;
+    color: #4A4A4A;
+    margin-top:30px;
+}

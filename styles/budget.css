@@ -1,0 +1,53 @@
+#budget-container {
+    display:inline-block;
+    width:100%;
+    
+    background: rgba(238,239,239,1);
+    height: 720px;
+}
+
+#budget-content-container {
+    display: inline-block;
+    margin-top:100px;
+}
+
+#budget-heading{
+    margin-left:150px;
+    margin-top: 150px;
+    font-size:36px;
+    font-family:Roboto;
+    color: rgba(74,74,74,1);
+    font-weight:500;
+}
+
+#budget-content {
+    display:inline-block;
+    margin-top : 20px;
+    margin-left: 150px;
+    font-size: 28px;
+    font-family:Roboto;
+    color: rgba(74,74,74,1);
+    
+}
+
+#budget-image{
+    display:inline-block;
+    width:400px;
+    height:520px;
+    background:url(../images/budget_group.png);
+    background-size: contain;
+    margin-top:50px;
+    float: right;
+    margin-right: 150px;
+}
+.projects-link-container{
+    margin-left: 617px;
+    margin-top: 350px;
+    float:inherit;
+    font-family: Roboto;
+    font-size: 28px;
+    text-decoration: underline;
+    color: rgba(74,74,74,1);
+    cursor: pointer;
+    
+}

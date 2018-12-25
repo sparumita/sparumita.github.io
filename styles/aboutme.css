@@ -1,0 +1,31 @@
+#about-me-container {
+    text-align: left;
+    margin-left:100px;
+}
+
+
+#about-me-image{
+    display:inline-block;
+    width:480px;
+    height:600px;
+    background:url(../images/IMG_8410.JPG);
+    background-size: contain;
+    margin-top:50px;
+    float: right;
+    margin-right: 100px;
+}
+
+#about-me-intro-text {
+   
+    font-size: 34px;
+    color: rgba(74,74,74,1);
+    font-weight: 500;
+    font-family: roboto;
+}
+
+#about-me-intro-description {
+    margin-top: 20px;
+    font-size: 24px;
+    color: rgba(74,74,74,0.8);
+    font-family: roboto;
+}

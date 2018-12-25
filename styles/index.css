@@ -1,0 +1,17 @@
+@import "header.css";
+@import "home.css";
+@import "socialInbox.css";
+@import "gurbani.css";
+@import"budget.css";
+@import"aboutme.css";
+@import "resume.css";
+@import "project.css";
+@import "contact.css";
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.link-container-hidden {
+    display: none !important;
+}

@@ -1,0 +1,34 @@
+
+#home-container {
+    text-align: center;
+}
+
+#home-content-container {
+    display: inline-block;
+    width: 50%;
+    font-family: Roboto;
+    margin-top: 50px;
+}
+
+#home-profile-image {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background: url(../images/bitmoji.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 10px;
+}
+
+#home-intro-text {
+    margin-top: 30px;
+    font-size: 34px;
+    color: rgba(74,74,74,1);
+    font-weight: 500;
+}
+
+#home-intro-description {
+    margin-top: 20px;
+    font-size: 26px;
+    color: rgba(74,74,74,0.8);
+}

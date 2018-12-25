@@ -1,0 +1,98 @@
+#project-container {
+    text-align: left;
+    margin:0px 100px;
+}
+
+.project-section-container {
+    display: inline-block;
+    float: left;
+}
+
+#project-intro-text {
+    font-size: 34px;
+    color: rgba(74,74,74,1);
+    font-weight: 500;
+    font-family: roboto;
+    margin-left:100px
+}
+
+.project-row {
+    margin: 50px 0px; 
+}
+
+.project-item {
+    display: inline-block;
+}
+
+.project-image {
+    width:400px;
+    height:200px;
+}
+
+#projects-viraltag-image {
+    background: url(../images/vt_social_inbox-v2.1.png);
+    background-size:contain;   
+}
+
+#projects-gurbani-image {
+    background: url(../images/gurbani.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+}
+
+#projects-budget-image{
+    background: url(../images/budget_image.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+}
+
+#projects-duolingo-image{
+    background: url(../images/duo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+}
+
+.project-name {
+    width:400px;
+    text-align: center;
+    height:50px;
+    font-family: Roboto;
+    font-size:24px;
+    text-align:center;
+    color: white;
+    line-height: 45px;
+}
+
+.project-name-type1 {
+     background-color: #FF2860;
+}
+
+.project-name-type2 {
+    background-color: #2ABAEF;
+}
+
+.project-name-type3 {
+    background-color: #331866;
+}
+
+.project-name-type4 {
+    background-color: #8549BA;
+}
+
+.project-align-left {
+    float: left;
+}
+
+.project-align-right {
+    float: right;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;   
+  clear: both;
+}
+

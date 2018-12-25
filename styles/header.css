@@ -1,0 +1,25 @@
+
+#header {
+    height: 80px;
+}
+
+#nav-container {
+    float: right;
+    margin-top: 30px;
+    margin-right: 60px;
+    height: 22px;
+}
+
+.nav-item {
+    display: inline-block;
+    font-size: 18px;
+    font-family: Roboto;
+    text-transform: uppercase;
+    margin-right: 38px;
+    color: #4A4A4A;
+    cursor: pointer;
+}
+
+.nav-item:last-child {
+    margin-right: 0px;
+}
