@@ -22,6 +22,7 @@
 
 .project-item {
     display: inline-block;
+    margin-left: 100px;
 }
 
 .project-image {
@@ -65,9 +66,12 @@
     color: white;
     line-height: 45px;
 }
-
+.customLink{
+    text-decoration: none;
+}
 .project-name-type1 {
      background-color: #FF2860;
+    text-decoration:none;
 }
 
 .project-name-type2 {

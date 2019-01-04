@@ -15,11 +15,11 @@
 
 #social-inbox-heading{
     margin-left:150px;
-    margin-top: 150px;
+    margin-top: 120px;
     font-size:36px;
     font-family:Roboto;
     color:white;
-    font-weight:500;
+    font-weight:400;
 }
 
 #social-inbox-content {
@@ -28,6 +28,7 @@
     margin-left: 150px;
     font-size: 28px;
     font-family:Roboto;
+    font-weight:300;
     color: white;
     
 }
@@ -41,4 +42,22 @@
     margin-top:100px;
     float: right;
     margin-right: 126px;
+}
+
+.CTA-button{
+    display:inline-block;
+    background: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 22px;
+    border:1px solid #FF2860;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-weight: 500;
+    color: #FF2860;
+    margin-top:30px;
+    margin-left:150px;
+    text-decoration: none;
 }
